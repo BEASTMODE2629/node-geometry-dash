@@ -1,0 +1,31 @@
+{
+  "name": "node-geometry-dash",
+  "version": "1.0.0",
+  "description": "A node.js module for searching for levels, accounts, getting songs, and the leaderboards of the game Geometry Dash",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  	"geometry dash",
+  	"gd",
+  	"geometry dash game",
+  	"geometry-dash"
+  ],
+  "dependencies": {
+  	"request": "2.78.0"
+  },
+  "engines": {
+  	"node": ">=4.0.0"
+  },
+  "bugs": {
+  	"url": "https://github.com/annoyingdog87/node-geometry-dash/issues"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/annoyingdog87/node-geometry-dash.git"
+  },
+  "homepage": "https://github.com/annoyingdog87/node-geometry-dash/",
+  "author": "Annoying_Dog87",
+  "license": "ISC"
+}
