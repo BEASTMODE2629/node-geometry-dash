@@ -1,6 +1,6 @@
 {
   "name": "node-geometry-dash",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A node.js module for searching for levels, accounts, getting songs, and the leaderboards of the game Geometry Dash",
   "main": "./index.js",
   "scripts": {
