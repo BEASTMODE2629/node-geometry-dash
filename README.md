@@ -1,5 +1,7 @@
 # node-geometry-dash
 
+# this doesnt work anymore dont use it
+
 A node.js module for searching for levels, accounts, getting songs, and the leaderboards of the game Geometry Dash
 
 ---
